@@ -11,7 +11,7 @@ git clone https://github.com/muki01/Gradient_Generator.git
 # Installation steps
 1. Open extension page in your browser</br>
 2. Enable developer mode</br>
-3. Click to <b>load unpacked</b> button and select Gradient generator folder</br>
+3. Click to "<b>load unpacked</b>" button and select Gradient generator folder</br>
 
 ## :scroll: Changelog
 Gradient_Generator gets updates with new features, improvements, and bugfixes.
